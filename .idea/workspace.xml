@@ -22,7 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40da0680-6dd1-4b77-b01a-e7051c83c645" name="Default Changelist" comment="Adding HTML to CSS" />
+    <list default="true" id="40da0680-6dd1-4b77-b01a-e7051c83c645" name="Default Changelist" comment="updating CSS">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +76,7 @@
       <workItem from="1603140075876" duration="12156000" />
       <workItem from="1603163247800" duration="456000" />
       <workItem from="1603762993025" duration="528000" />
-      <workItem from="1603763627378" duration="6314000" />
+      <workItem from="1603763627378" duration="6980000" />
     </task>
     <task id="LOCAL-00001" summary="Adding HTML to CSS">
       <created>1603163326623</created>
@@ -82,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603163326623</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="updating CSS">
+      <created>1603770038729</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603770038729</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,18 +112,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding HTML to CSS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding HTML to CSS" />
+    <MESSAGE value="updating CSS" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating CSS" />
   </component>
   <component name="WindowStateProjectService">
     <state x="267" y="19" key="#Inspections" timestamp="1603155043067">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="267" y="19" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1603155043067" />
-    <state x="201" y="105" key="FileChooserDialogImpl" timestamp="1603769703054">
+    <state x="201" y="105" key="FileChooserDialogImpl" timestamp="1603770323764">
       <screen x="62" y="0" width="1218" height="720" />
     </state>
     <state x="146" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1603089536277" />
-    <state x="201" y="105" key="FileChooserDialogImpl/62.0.1218.720@62.0.1218.720" timestamp="1603769703054" />
+    <state x="201" y="105" key="FileChooserDialogImpl/62.0.1218.720@62.0.1218.720" timestamp="1603770323764" />
     <state width="675" height="204" key="GridCell.Tab.0.bottom" timestamp="1603089825925">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -182,14 +193,16 @@
       <screen x="62" y="0" width="1218" height="720" />
     </state>
     <state x="284" y="10" key="SettingsEditor/62.0.1218.720@62.0.1218.720" timestamp="1603769831341" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1603163339977">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="284" y="78" key="Vcs.Push.Dialog.v2" timestamp="1603770045713">
+      <screen x="62" y="0" width="1218" height="720" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1603163339977" />
-    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603163288924">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="284" y="78" key="Vcs.Push.Dialog.v2/62.0.1218.720@62.0.1218.720" timestamp="1603770045713" />
+    <state x="498" y="270" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603769998703">
+      <screen x="62" y="0" width="1218" height="720" />
     </state>
     <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1603163288924" />
+    <state x="498" y="270" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1218.720@62.0.1218.720" timestamp="1603769998703" />
     <state x="11" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1603154909036">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
